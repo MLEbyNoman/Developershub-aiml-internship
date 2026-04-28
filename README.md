@@ -1,4 +1,4 @@
-# 🤖 AI/ML Engineering Internship — DevelopersHub Corporation
+#  AI/ML Engineering Internship — DevelopersHub Corporation
 
 **Intern:** [Muhammad Noman Anwar]
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Tasks Overview
+## Tasks Overview
 
 | # | Task | Dataset | Model(s) | Status |
 |---|------|---------|----------|--------|
@@ -101,7 +101,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.x**
 - **pandas** — data loading and manipulation
@@ -117,7 +117,7 @@
 pip install pandas numpy matplotlib seaborn scikit-learn yfinance jupyter
 ```
 
-## 🚀 Running the Notebooks
+## Running the Notebooks
 
 ```bash
 jupyter notebook
