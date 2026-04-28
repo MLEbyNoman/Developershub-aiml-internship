@@ -1,7 +1,7 @@
 # 🤖 AI/ML Engineering Internship — DevelopersHub Corporation
 
 **Intern:** [Muhammad Noman Anwar]
-**Due Date:** 28 April, 2026  
+
 **Tasks Completed:** 4 out of 6
 
 ---
