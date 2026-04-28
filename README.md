@@ -15,10 +15,6 @@
 | 3 | Heart Disease Prediction | UCI Heart Disease | Logistic Regression, Decision Tree | ✅ Complete |
 | 6 | House Price Prediction | California Housing (sklearn) | Linear Regression, Gradient Boosting, Random Forest | ✅ Complete |
 
----
-
-## 📁 Repository Structure
-
 
 ## 📊 Task 1: Iris Dataset EDA
 
