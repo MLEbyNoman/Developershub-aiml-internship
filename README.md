@@ -1,6 +1,6 @@
 # 🤖 AI/ML Engineering Internship — DevelopersHub Corporation
 
-**Intern:** [Muhammad Noman Anwar]  
+**Intern:** [Your Name]  
 **Due Date:** 28 April, 2026  
 **Tasks Completed:** 4 out of 6
 
@@ -15,8 +15,19 @@
 | 3 | Heart Disease Prediction | UCI Heart Disease | Logistic Regression, Decision Tree | ✅ Complete |
 | 6 | House Price Prediction | California Housing (sklearn) | Linear Regression, Gradient Boosting, Random Forest | ✅ Complete |
 
+---
 
+## 📁 Repository Structure
 
+```
+├── Task1_Iris_EDA.ipynb           # Iris dataset exploration & visualization
+├── Task2_Stock_Prediction.ipynb   # AAPL stock price prediction
+├── Task3_Heart_Disease.ipynb      # Heart disease classification
+├── Task6_House_Price.ipynb        # House price regression
+└── README.md
+```
+
+---
 
 ## 📊 Task 1: Iris Dataset EDA
 
