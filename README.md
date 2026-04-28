@@ -1,4 +1,4 @@
-#  AI/ML Engineering Internship — DevelopersHub Corporation
+#  AI/ML Engineering Internship  DevelopersHub Corporation
 
 **Intern:** [Muhammad Noman Anwar]
 
